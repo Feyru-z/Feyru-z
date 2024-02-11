@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Feyru-z
-- 📫 How to reach me  https://vk.com/kirpi_oruc
+- 📫 How to reach me  
 
 <!---
 Feyru-z/Feyru-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
